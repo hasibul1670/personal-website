@@ -1,143 +1,144 @@
-body{
+body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
-section{
+
+section {
     height: 500px;
 }
 
-.intro{
-    background-image:url("images/header-bg.png");
-    background-size:cover;
+.intro {
+    background-image: url("images/header-bg.png");
+    background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 100px;
-  
-   
 }
 
-h1{
-    
-    color:#EC4D80;
+h1 {
+    color: #EC4D80;
     font-weight: 700;
     margin-top: -22px;
 }
-h2{
+
+h2 {
     font-weight: 200;
 }
-p{
+
+p {
     font-size: 16px;
     margin-bottom: 35px;
 }
-.btn{
-    background:#EC4F90 ;
+
+.btn {
+    background: #EC4F90;
     padding: 10px 30px;
-    border:5px solid #EC4F90;
-  border-radius: 5px;
+    border: 5px solid #EC4F90;
+    border-radius: 5px;
 }
+
 a {
     text-decoration: none;
-    font-weight:600;
-    color: #ffff;  
+    font-weight: 600;
+    color: #ffff;
 }
 
-.intro-section{
-
+.intro-section {
     padding-top: 220px;
     float: left;
     width: 30%;
     margin-left: 5%;
-    padding-left:7%;  
-
+    padding-left: 7%;
 }
 
-.intro-section img{
+.intro-section img {
     margin-top: -45px;
-   margin-right:;
+    margin-right: ;
     width: 100%;
 }
-.biography{
+
+.biography {
     background-image: url(images/biography-bg.png);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 250px;
 }
 
+.biography h1 {
+    color: black;
+}
 
-.biography h1{
-    color:black;
-}
-.biography p{
+.biography p {
     font-size: 16px;
-    
 }
-.my-work{
+
+.my-work {
     padding-top: 5rem;
     background-image: url(images/latest-work-bg.png);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
 }
-.my-work h1{
+
+.my-work h1 {
     color: black;
     font-size: 2rem;
     text-align: center;
 }
-.work-img{
+
+.work-img {
     float: left;
     width: 28%;
-    padding:1rem;
-
+    padding: 1rem;
 }
 
-.my-work-img{
-
-    padding-top:1rem;
-    padding-left:5rem;
+.my-work-img {
+    padding-top: 1rem;
+    padding-left: 5rem;
 }
 
-.footer-text{
+.footer-text {
     text-align: center;
-
 }
 
-.footer{
-
+.footer {
     background-image: url(images/footer-bg.png);
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
 }
-.footer h1{
+
+.footer h1 {
     color: black;
-    font-size:2.5rem;
+    font-size: 2.5rem;
     font-weight: 500;
 }
-.footer h2{
+
+.footer h2 {
     font-weight: 500;
     font-size: 20px;
 }
-.footer h3{
-    margin-top:-20px ;
+
+.footer h3 {
+    margin-top: -20px;
     font-weight: 400;
     font-size: 12px;
 }
+
 .footer a {
     font-weight: 600;
     font-size: 25px;
 }
 
-
-.btn1{
+.btn1 {
     padding-top: 40px;
-   margin-left: 25%;
-   border-radius: 10px;
-   background-image: linear-gradient(to right,#EC4F90 , #EC4C76) 
-    border: :#EC4F90 ;
-    width:30rem;
+    margin-left: 25%;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #EC4F90, #EC4C76) border::#EC4F90;
+    width: 30rem;
     height: 5rem;
-    color:white;
- margin-bottom: 130px;  
+    color: white;
+    margin-bottom: 130px;
 }
 
-.footer h4{
+.footer h4 {
     font-weight: 400;
     font-size: 10px;
 }
